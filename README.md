@@ -72,6 +72,7 @@ claude plugin test token-dash       # run tests/*.test.tsx
 - `hooks/register.tsx` is the mod's code.
 - `types/index.d.ts` declares the values it keeps in session state.
 - `tests/kill.test.tsx` covers the Kill button on the terminal and desktop surfaces.
+- `tsconfig.json` gives your editor Claude Code's mod types. It extends `.claude-plugin/types/`, which is not in the repo: Claude Code writes that folder when it loads the mod from a local clone (see [From a local clone](#from-a-local-clone)). Until then, your editor reports the missing file.
 
 ## License
 
