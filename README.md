@@ -72,3 +72,7 @@ claude plugin test token-dash       # run tests/*.test.tsx
 - `hooks/register.tsx` is the mod's code.
 - `types/index.d.ts` declares the values it keeps in session state.
 - `tests/kill.test.tsx` covers the Kill button on the terminal and desktop surfaces.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

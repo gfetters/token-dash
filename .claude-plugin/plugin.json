@@ -2,5 +2,6 @@
   "name": "token-dash",
   "version": "0.1.0",
   "description": "Token usage, rate-limit reset countdowns, and a subagent pane with burn rates and kill buttons",
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }
