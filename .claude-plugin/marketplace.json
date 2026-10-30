@@ -1,0 +1,5 @@
+{
+  "name": "token-dash",
+  "owner": { "name": "gfetters" },
+  "plugins": [{ "name": "token-dash", "source": "./" }]
+}
